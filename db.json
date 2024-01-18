@@ -1,6 +1,46 @@
 {
   "movies": [
+    {
+      "title": "RRR",
+      "year": 2022,
+      "plot": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in the 1920s.",
+      "releaseDate": "25 Mar 2022",
+      "director": "S.S. Rajamouli",
+      "actors": "N.T. Rama Rao Jr., Ram Charan, Ajay Devgn",
+      "posterPath": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "id": 1
+    },
+    {
+      "title": "Baahubali: The Beginning",
+      "year": 2015,
+      "plot": "A child from the Mahishmati kingdom is raised by tribal people and one day learns about his royal heritage, his father's bravery in battle and a mission to overthrow the incumbent ruler.",
+      "releaseDate": "09 Jul 2015",
+      "director": "S.S. Rajamouli",
+      "actors": "Prabhas, Rana Daggubati, Anushka Shetty",
+      "posterPath": "https://m.media-amazon.com/images/M/MV5BYWVlMjVhZWYtNWViNC00ODFkLTk1MmItYjU1MDY5ZDdhMTU3XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_SX300.jpg",
+      "id": 2
+    },
+    {
+      "title": "Hi Nanna",
+      "year": 2023,
+      "plot": "A single father begins to narrate the story of the missing mother to his child and nothing remains the same.",
+      "releaseDate": "07 Dec 2023",
+      "director": "Shouryuv",
+      "actors": "Shruti Haasan, Mrunal Thakur, Nani",
+      "posterPath": "https://m.media-amazon.com/images/M/MV5BMjZkNTdhOTMtYzg0Yy00YjA4LTljOTQtZWRkNTZkMTY3Y2Y3XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_SX300.jpg",
+      "id": 3
+    }
   ],
   "favourites": [
+    {
+      "title": "RRR",
+      "year": 2022,
+      "plot": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in the 1920s.",
+      "releaseDate": "25 Mar 2022",
+      "director": "S.S. Rajamouli",
+      "actors": "N.T. Rama Rao Jr., Ram Charan, Ajay Devgn",
+      "posterPath": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "id": 1
+    }
   ]
 }
